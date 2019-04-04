@@ -10,3 +10,4 @@ Institut Teknologi Sepuluh Nopember
 <br>
 Surabaya, Jawa Timur
 
+Penjelasan tersedia disini: https://darariakmal.blogspot.com/2019/04/ets-pbkk-sim-tugas-akhir.html
